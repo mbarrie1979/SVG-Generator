@@ -1,0 +1,30 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "Creates an SVG file based on user input ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mbarrie1979"
+  },
+  "keywords": [
+    "svg",
+    "generator",
+    "logo"
+  ],
+  "author": "Mark Barrie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
