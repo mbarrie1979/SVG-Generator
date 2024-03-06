@@ -82,5 +82,5 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 Mark Barrie - developer
 
 ## Video Walkthrough
-![Video Walkthrough]()
+![Video Walkthrough](https://watch.screencastify.com/v/eas0rZgxyPEKJOKVS105)
 
