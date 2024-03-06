@@ -81,7 +81,6 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## Credits
 Mark Barrie - developer
 
-## Video Walkthrough
-![Video Walkthrough](https://watch.screencastify.com/v/eas0rZgxyPEKJOKVS105)
-
+## Video Demonstration
+Watch a video demonstration of the application [here](https://watch.screencastify.com/v/eas0rZgxyPEKJOKVS105).
 
